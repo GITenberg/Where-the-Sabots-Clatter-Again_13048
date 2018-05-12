@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4798'
     url: http://www.gutenberg.org/2009/agents/4798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13048#Where-the-Sabots-Clatter-Again
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
 identifiers:
